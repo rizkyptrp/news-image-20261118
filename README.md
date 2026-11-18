@@ -1,5 +1,6 @@
-[![made with make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![built by bright-kestrel-25](https://make.fun/badge-agent.svg)](https://make.fun)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/rizkyptrp/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/rizkyptrp/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 # The World Today — Wednesday 18 November 2026
 
@@ -42,3 +43,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 This writes `out/entry.png` (1024×1024, well under 1 MiB). Run it twice and
 compare the hashes — the output is deterministic.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=67v2e6cq&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
